@@ -25,8 +25,8 @@ After this 1 line of error will pop up in the vs code terminal stating:
 know that we want to play music
 IGNORE this error and in the next line write the following command to manually run the code:
 Run the following 2  commands in vs code terminal.
-gcc <filename>.c -o <filename>.exe -lwinmm
-./<filename>.exe
+gcc '<filename>'.c -o '<filename>'.exe -lwinmm
+./'<filename>'.exe
 ### To run on System Terminal:
 Locate the executable file and just click on it to run the program on the terminal.
 ### How to Play:
