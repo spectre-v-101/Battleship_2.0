@@ -5,8 +5,11 @@ Terminal Battleship Game with Smart AI & Special Torpedo
 > A feature-rich Battleship game written entirely in C, with animated ASCII radar effects,
 intelligent AI opponent, and a powerful special torpedo attack system. Built to run directly in the
 terminal with no external libraries.
-> Author:
+> Co - Authors:
 - Ved Chattopadhyay
+- Rujul Bahirat
+- Soham Sen
+- Rachit Patel
 ---
 Files to Download:
 Extract all the files to a folder.
